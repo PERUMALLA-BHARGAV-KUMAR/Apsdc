@@ -1,0 +1,32 @@
+﻿body{
+	background-color: #ABC2C4;
+
+}
+#parent{
+	background-color: #77989C;
+	margin: 10%;
+	padding: 4%;
+	display: flex;
+	justify-content: space-around;
+	border-radius: 4%
+
+
+}
+.card{
+	background-color: #40949C;
+	width: 25%;
+	text-align: center;
+	border-radius: 3%;
+	box-shadow: 4px 4px 4px 4px #D7DFE0;
+}
+img{
+	height: 40%;
+	width: 70%;
+	margin: 5%;
+	border-radius: 35%
+}
+p{
+	font-size: 15px;
+	font-weight:bold;
+
+}
